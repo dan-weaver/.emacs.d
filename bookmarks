@@ -1,0 +1,60 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("sv3"
+ (filename . "~/projects/pbs/sv3/")
+ (front-context-string . ".git\n  -rw-r--r-")
+ (rear-context-string . "42 Feb  9 12:13 ")
+ (position . 243))
+("bot"
+ (filename . "~/projects/evil-overlord/")
+ (front-context-string . ".gitignore\n  -rw")
+ (rear-context-string . "84 Jan 21 13:59 ")
+ (position . 252))
+("org-capture-last-stored-marker"
+ (filename . "~/org/gtd.org")
+ (front-context-string . "** TODO hide tab")
+ (rear-context-string . "ative-ios.html\n\n")
+ (position . 1297))
+("serverbro"
+ (filename . "/ssh:pbskids@automata.pbskids.org:/home/pbskids/apps/faye-broker/")
+ (front-context-string . "bin\n  drwxrwxr-x")
+ (rear-context-string . "96 Dec  9 21:13 ")
+ (position . 235))
+("bro"
+ (filename . "~/projects/pbs/supervisionbroker/src/")
+ (front-context-string . ".DS_Store\n  -rw-")
+ (rear-context-string . "48 Aug 22 17:53 ")
+ (position . 261))
+("includes"
+ (filename . "/ssh:kidsdev@dev.pbskids.org:/home/kidsdev/webroot/includes/super-vision/")
+ (front-context-string . "about.html\n* -rw")
+ (rear-context-string . "22 Nov 11 11:32 ")
+ (position . 237))
+("amp"
+ (filename . "~/projects/amplify-copacabana/")
+ (front-context-string . ".DS_Store\n  drwx")
+ (rear-context-string . "64 May 22  2014 ")
+ (position . 257))
+("sv"
+ (filename . "~/projects/pbs/supervision-app/")
+ (front-context-string . ".DS_Store\n  -rw-")
+ (rear-context-string . "92 Oct  8 14:27 ")
+ (position . 258))
+("cord"
+ (filename . "~/projects/pbs/cordova-app/platforms/ios/www/")
+ (front-context-string . ".DS_Store\n  -rw-")
+ (rear-context-string . "48 Oct  7 14:33 ")
+ (position . 273))
+("org-refile-last-stored"
+ (filename . "~/org/gtd.org")
+ (front-context-string . "** https://www.y")
+ (rear-context-string . "bnet_mask.html\n\n")
+ (position . 1063))
+("org-capture-last-stored"
+ (filename . "~/org/journal.org")
+ (front-context-string . "**** \nEntered on")
+ (rear-context-string . "02-04 Wednesday\n")
+ (position . 54))
+)
